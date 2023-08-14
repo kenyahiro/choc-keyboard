@@ -1,0 +1,3 @@
+[submodule "sch/choc-keyboard/lib/kiswitch"]
+	path = sch/choc-keyboard/lib/kiswitch
+	url = https://github.com/kiswitch/kiswitch.git
