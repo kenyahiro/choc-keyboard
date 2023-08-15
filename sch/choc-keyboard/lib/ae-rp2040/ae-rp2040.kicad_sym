@@ -17,7 +17,7 @@
         (stroke (width 0) (type default))
         (fill (type background))
       )
-      (pin power_in line (at -12.7 20.32 0) (length 2.54)
+      (pin power_out line (at -12.7 20.32 0) (length 2.54)
         (name "+5V" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
