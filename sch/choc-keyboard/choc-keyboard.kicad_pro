@@ -475,6 +475,10 @@
     [
       "8ca88bad-704c-45d2-87e2-63cdabef09eb",
       "sw_matrix"
+    ],
+    [
+      "9dafcc7c-ddfd-4c89-a1d8-b4f2e9de3d3a",
+      "LCD1602"
     ]
   ],
   "text_variables": {}
